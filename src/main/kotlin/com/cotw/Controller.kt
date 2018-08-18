@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.*
 import javax.servlet.http.HttpServletRequest
 
 @CrossOrigin(origins = [
-    "http://localhost:3000",
+    "http://localhost:4200",
     "https://climb-on-the-way-1487535946897.appspot.com",
     "http://climb-on-the-way-1487535946897.appspot.com",
     "http://climbontheway.com",
