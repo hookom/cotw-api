@@ -9,7 +9,9 @@ import javax.servlet.http.HttpServletRequest
     "https://climb-on-the-way-1487535946897.appspot.com",
     "http://climb-on-the-way-1487535946897.appspot.com",
     "http://climbontheway.com",
-    "https://climbontheway.com"])
+    "https://climbontheway.com",
+    "http://www.climbontheway.com",
+    "https://www.climbontheway.com"])
 @RestController
 class Controller {
 
